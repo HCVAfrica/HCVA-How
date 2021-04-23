@@ -21,14 +21,6 @@ We get a lot of questions about how this works in practice, especially from othe
 
 Want to start a similar org? See [How to clone the Crisp DNA](how-to-copy.html).
 
-Why open-source the Crisp DNA?
-------------------------------
-
--   To make the world a better place! The model has helped us be happy and make a positive impact in the world, and publishing it may help others do the same.
--   Open-sourcing it is a fun social experiment, we're curious about what's going to happen :o)
--   By making our model public, we're more likely to keep it up-to-date and improve it as we learn.
--   Putting it on GitHub makes it easier for others to clone and evolve the model, and we can learn from that.
-
 Contents
 ========
 
